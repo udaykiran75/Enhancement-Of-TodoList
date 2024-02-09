@@ -1,0 +1,22 @@
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+p {
+  font-family: Roboto;
+  font-size: 24px;
+}
+button {
+  color: #ff0b37;
+  border-color: #ff0b37;
+  font-family: Roboto;
+  font-size: 23px;
+  background-color: white;
+  border-style: solid;
+  border-radius: 9px;
+  border-width: 1px;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+}
